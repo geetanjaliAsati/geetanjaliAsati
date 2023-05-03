@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Data Structure and Algorithms & familiar with Html, CSS, JavaScript and Reactjs ...
+- 🌱 Learning Data Structure and Algorithms & working on problem solving skills.
 <!--
 **geetanjaliAsati/geetanjaliAsati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
